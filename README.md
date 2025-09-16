@@ -35,7 +35,7 @@ Through this project, I gained experience with:
 -	Game loop design
 -	Debugging unexpected behavior
 ## Screenshot
- 
+ ![Pong Game Screenshot](assets/pong-game_screenshot.png)
 
 ## Author
 Developed by Adam Šimák

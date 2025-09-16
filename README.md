@@ -13,7 +13,7 @@ Right paddle – Move up (↑), Move down (↓)
 ## How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/AdamSimak/Pong-Game
+   git clone https://github.com/AdamSimak/pong-python
    cd Pong-Game
 2. Run the game
    ```bash
